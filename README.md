@@ -23,3 +23,18 @@
     git add .
     git commit -m "first commit"
 ```
+
+## Створю та перейду до нової вітки lab_works_one_two
+```
+    git checkout -b "lab_works_one_two"
+```
+
+## Підключаю віддалений репозиторій
+```
+    git remote add origin link
+```
+## Відсилаю файли у віддалений репозиторій
+```
+    git push
+```
+
